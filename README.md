@@ -1,2 +1,2 @@
-# javascript-DIO
-Exercícios e Desafios de Javascript
+# Exercícios e Desafios de Javascript bootcamp DIO
+Introdução ao Javascript
